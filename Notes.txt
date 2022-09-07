@@ -1,0 +1,8 @@
+1) print("something") - print function to print something.
+2) print("something\nsomthing") - use \n to print new line.
+input(prompt) - to accept value from the user.
+# - to add a comment in the code.
+Variable naming:
+- name has to be one single unit.
+- should always start with alphabets.
+- should not have any space.
